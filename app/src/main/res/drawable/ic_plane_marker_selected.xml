@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="54dp"
+    android:height="54dp"
+    android:viewportWidth="54"
+    android:viewportHeight="54">
+    <!-- Glowing ring -->
+    <path
+        android:fillColor="#66FF9100"
+        android:pathData="M27,27m-25,0a25,25 0 1,1 50,0a25,25 0 1,1 -50,0" />
+    <path
+        android:fillColor="#E61A1423"
+        android:strokeColor="#FFD600"
+        android:strokeWidth="2.5"
+        android:pathData="M27,27m-20,0a20,20 0 1,1 40,0a20,20 0 1,1 -40,0" />
+    <!-- Airplane silhouette pointing North (Up) -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M27,8 L29.5,18 L42,26 L42,29.5 L29.5,26.5 L29.5,37 L34,41 L34,43.5 L27,42 L20,43.5 L20,41 L24.5,37 L24.5,26.5 L12,29.5 L12,26 L24.5,18 Z" />
+    <!-- Nose highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,8 L28.5,15 L25.5,15 Z" />
+</vector>

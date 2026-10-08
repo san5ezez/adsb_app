@@ -1,0 +1,6 @@
+{
+  "name": "Planes ADS-B",
+  "description": "Отслеживание самолётов в реальном времени с сервера OpenWebRX+",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
